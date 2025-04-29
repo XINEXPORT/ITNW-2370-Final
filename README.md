@@ -90,11 +90,7 @@
     - **Take a screenshot** of this page.  
       Label it: **5 – Kubernetes Resources in Azure**
 
----
-
 ## **FINALLY, Cleanup your resources.**
-
----
 
 # 🎉 CONGRATULATIONS! 🎉
 You have created a microservice, containerized it, and deployed it to the cloud!
